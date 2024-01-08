@@ -8,3 +8,5 @@ function loop() {
     ctx.fillStyle = "#ccc";
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 }
+
+loop();
