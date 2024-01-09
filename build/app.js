@@ -3,7 +3,7 @@
 var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
 
-var bgImage =  new Image();
+var bgImage =  ew Image();
 bgImage.src = "images/platform_b.jpg";
 
 function loop() {
